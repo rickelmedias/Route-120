@@ -20,3 +20,10 @@ O repositório está aberto para colaboração da comunidade, permitindo atualiz
 | --- | ------------------------------------------------------------------ | ------------------------------------- |
 | DSA | [Estruturas de dados e algoritmos](./data-structures-n-algorithms) |                                       |
 | CP0 | [Programação competitiva](./competitive-programming/)              | [DSA](./data-structures-n-algorithms) |
+| SO0 | Sistemas Operacionais                                              |                                       |
+| PI0 | Processamento de Imagens                                           |                                       |
+| SE0 | Engenharia de Software                                             |                                       |
+
+## Time
+
+- [Rickelme Dias](https://github.com/RickelmeDias)
