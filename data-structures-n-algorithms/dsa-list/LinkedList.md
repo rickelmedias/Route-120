@@ -18,25 +18,25 @@ Existe mais de um tipo de listas ligada, aqui estão os tipos de listas ligadas:
 
 Cada nó aponta para o próximo nó e o último nó aponta para nulo.
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Singly-Linked-by-GFG.png" alt="Singly Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Singly-Linked-by-GFG.png" alt="Singly Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="500" />
 
 ### Lista Ligada Dupla (Doubly Linked List)
 
 Cada nó tem dois ponteiros, um para o nó anterior e outro para o próximo nó.
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Doubly-Linked-by-GFG.png" alt="Doubly Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Doubly-Linked-by-GFG.png" alt="Doubly Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="500" />
 
 ### Lista Ligada Circular (Circular Linked List)
 
 A última nó aponta de volta para o primeiro nó, formando um loop, ou seja, existe um ciclo nessa lista.
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Circular-Linked-by-GFG.png" alt="Circular Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Circular-Linked-by-GFG.png" alt="Circular Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="500" />
 
 ### Lista Ligada Duplamente Circular (Doubly Circular Linked List)
 
 Cada nó tem ponteiros tanto para o próximo quanto para o nó anterior, e o último nó aponta para o primeiro, formando um loop duplo.
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Doubly-Circular-by-GFG.png" alt="Doubly Circular Linked, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Doubly-Circular-by-GFG.png" alt="Doubly Circular Linked, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="500" />
 
 ### Lista Ligada com Cabeçalho (Header Linked List)
 
@@ -44,7 +44,7 @@ Uma Lista Ligada com Cabeçalho é uma lista que possui um nó especial chamado 
 
 Esse tipo de lista pode ser _Grounded Header Linked List_ ou _Circular Header Linked List_, se quiser saber mais a fundo sobre esse tipo de lista recomendamos a leitura de [_"Header Linked List in C"_ no site Geeks for Geeks](https://www.geeksforgeeks.org/header-linked-list-in-c/).
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Header-Linked-by-GFG.png" alt="Header Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Header-Linked-by-GFG.png" alt="Header Linked List, image from https://www.geeksforgeeks.org/types-of-linked-list/" width="500" />
 
 Para entender melhor como implementar os tipos de listas mencionados anteriormente, confira o artigo no site de onde as imagens foram tiradas: *https://www.geeksforgeeks.org/types-of-linked-list/*. Lá, você encontrará explicações e implementações em código.
 
@@ -60,7 +60,7 @@ Como mostramos anteriormente em [_Lista Ligada Circular_](#lista-ligada-circular
 
 Veja uma imagem animada desse funcionamento retirada de um artigo de Kushleen Waraich no site [Naukri](https://www.naukri.com/code360). Pense que o **azul* é o *fast pointer** e o **vermelho* é o *slow pointer**.
 
-<img src="https://github.com/RickelmeDias/Route-120/tree/main/assets/DSA/ll/Two-Pointer-Approach-by-Naukri.gif" alt="Animação de https://www.naukri.com/code360/library/what-is-a-two-pointer-technique" width="300" />
+<img src="https://github.com/RickelmeDias/Route-120/blob/main/assets/DSA/ll/Two-Pointer-Approach-by-Naukri.gif" alt="Animação de https://www.naukri.com/code360/library/what-is-a-two-pointer-technique" width="500" />
 
 
 </details></br>
