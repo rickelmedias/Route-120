@@ -18,8 +18,8 @@ O repositório está aberto para colaboração da comunidade, permitindo atualiz
 
 | ID  | Matéria                                               | Pré-Requisitos |
 | --- | ----------------------------------------------------- | -------------- |
-| DSA | Estruturas de dados e algoritmos                      |                |
-| CP0 | [Programação competitiva](./competitive-programming/) | DSA            |
+| DSA | Estruturas de Dados e Algoritmos                      |                |
+| CP0 | [Programação Competitiva](./competitive-programming/) | DSA            |
 | SO0 | Sistemas Operacionais                                 |                |
 | PI0 | Processamento de Imagens                              |                |
 | SE0 | Engenharia de Software                                |                |
