@@ -16,13 +16,13 @@ O repositório está aberto para colaboração da comunidade, permitindo atualiz
 
 ## Conteúdo
 
-| ID  | Matéria                                               | Pré-Requisitos |
-| --- | ----------------------------------------------------- | -------------- |
-| DSA | Estruturas de Dados e Algoritmos                      |                |
-| CP0 | [Programação Competitiva](./competitive-programming/) | DSA            |
-| SO0 | Sistemas Operacionais                                 |                |
-| PI0 | Processamento de Imagens                              |                |
-| SE0 | Engenharia de Software                                |                |
+| ID  | Matéria                                                            | Pré-Requisitos |
+| --- | ------------------------------------------------------------------ | -------------- |
+| DSA | [Estruturas de Dados e Algoritmos](/data-structures-n-algorithms/) |                |
+| CP0 | [Programação Competitiva](/competitive-programming/)               | DSA            |
+| SO0 | Sistemas Operacionais                                              |                |
+| PI0 | Processamento de Imagens                                           |                |
+| SE0 | Engenharia de Software                                             |                |
 
 ## Time
 
