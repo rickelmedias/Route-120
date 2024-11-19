@@ -1,4 +1,4 @@
-# Algoritmos de Busca
+# Digrafos e Grafos
 
 Nesta seção, focaremos exclusivamente em **digrafos e grafos**. Foi decidido separar este conteúdo do principal, pois o tema é bastante abrangente e detalhado. Por isso, faz sentido dedicá-lo a um documento próprio, onde poderemos explorar todos os aspectos relevantes de forma mais aprofundada.
 
