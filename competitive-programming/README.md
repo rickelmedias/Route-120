@@ -4,7 +4,8 @@ Este tópico aborda a programação competitiva, uma atividade em que os partici
 
 Nessa seção do repositório, iremos abordar tudo sobre programação competitiva, oferecendo soluções de diversas plataformas, algumas das quais podem estar explicadas em vídeos.
 
-| Conteúdo                              |
-| ------------------------------------- |
-| [Fundamentos](./fundamentals/)        |
-| [Soluções de Problemas](./solutions/) |
+| Conteúdo                                                  |
+| --------------------------------------------------------- |
+| [Fundamentos de Programação Competitiva](./fundamentals/) |
+| [Trilha de Aprendizagem](./roadmap/)                      |
+| [Soluções de Problemas](./solutions/)                     |
