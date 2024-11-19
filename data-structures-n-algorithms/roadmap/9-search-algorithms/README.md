@@ -6,14 +6,14 @@ Nesta seção, focaremos exclusivamente em **algoritmos de busca**. Foi decidido
 
 Lista de conteúdo para seguir, você pode clicar em cima do link para acessar cada um deles.
 
-| Aula | Tema               | Conteúdo de Estudos                                                                         |
-| ---- | ------------------ | ------------------------------------------------------------------------------------------- |
-| #000 | Algoritmo de Busca | [Linear Search Algorithm][1] _by GeeksforGeeks_                                             |
-| #000 | Algoritmo de Busca | [Binary Search Algorithm][2] _by GeeksforGeeks_                                             |
-| #000 | Algoritmo de Busca | [Python Powerful Ultimate Binary Search Template. Solved many problems][3] _by zhijun_liao_ |
-| #000 | Algoritmo de Busca | [Busca binária][3] _by Paulo Feofiloff_                                                     |
-| #000 | Algoritmo de Busca | [What is Jump Search and how does it work][5] _by Techdose_                                 |
-| #001 | Técnicas de Busca  | [Two Pointers Technique][6] _by GeeksforGeeks_                                              |
+| Tema               | Conteúdo de Estudos                                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| Algoritmo de Busca | [Linear Search Algorithm][1] _by GeeksforGeeks_                                             |
+| Algoritmo de Busca | [Binary Search Algorithm][2] _by GeeksforGeeks_                                             |
+| Algoritmo de Busca | [Python Powerful Ultimate Binary Search Template. Solved many problems][3] _by zhijun_liao_ |
+| Algoritmo de Busca | [Busca binária][3] _by Paulo Feofiloff_                                                     |
+| Algoritmo de Busca | [What is Jump Search and how does it work][5] _by Techdose_                                 |
+| Técnicas de Busca  | [Two Pointers Technique][6] _by GeeksforGeeks_                                              |
 
 ## Referências
 
@@ -24,7 +24,7 @@ Lista de conteúdo para seguir, você pode clicar em cima do link para acessar c
 - [Aulas de Análise de Algoritmos IME USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/lectures.html)
 - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
 
-## Links
+###### Links
 
 [1]: https://www.geeksforgeeks.org/linear-search/ "Linear Search Algorithm"
 [2]: https://www.geeksforgeeks.org/binary-search/ "Binary Search Algorithm"
