@@ -21,12 +21,12 @@ Lista de conteúdo para seguir, você pode clicar em cima do link para acessar c
 | Complexidade de Problemas | [Complexidade e problemas NP-completos][15] _by Paulo Feofiloff_                    |
 | Iterações                 | [Iterations][18] _by Codility_                                                      |
 | Começando                 | [Começando](#começando)                                                             |
-| Vetores (Arrays)          | [Arrays][17] _by Codility_                                                          |
-| Continuando               | [Continuando](#continuando)                                                         |
 | Manipulações de Bit       | [Bit Manipulation Techniques for Coding Interviews][11] _by Ashish Pratap Singh_    |
 | Manipulações de Bit       | [Solução problema Single Number II][12] _by Ashish Pratap Singh_                    |
 | Manipulações de Bit       | [Bitmask][13] _by Lawrence Melo_                                                    |
 | Manipulações de Bit       | [Bitmasking / Bitmanipulation for Competitive Programming][14] _by Himanshu Singal_ |
+| Vetores (Arrays)          | [Arrays][17] _by Codility_                                                          |
+| Continuando               | [Continuando](#continuando)                                                         |
 
 ## Começando
 

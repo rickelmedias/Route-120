@@ -1,11 +1,46 @@
-# Programação Competitiva
+# Competitive Programming Solutions
 
-Este tópico aborda a programação competitiva, uma atividade em que os participantes resolvem problemas de programação sob pressão de tempo. Aqui estão incluídos os fundamentos da competição, como estratégias de resolução de problemas, otimização de algoritmos e gerenciamento de tempo. Existem várias plataformas online dedicadas a hospedar competições, como o Codeforces, AtCoder e Topcoder, onde os competidores podem testar suas habilidades em uma variedade de problemas.
+Esta secção contém minhas soluções para problemas e explicações de temas abordados no livro **Competitive Programming** de Steven Halim e Felix Halim. O objetivo é compartilhar meu aprendizado, organizar meu progresso e contribuir para a comunidade com abordagens e explicações desenvolvidas por mim durante meus estudos.
 
-Nessa seção do repositório, iremos abordar tudo sobre programação competitiva, oferecendo soluções de diversas plataformas, algumas das quais podem estar explicadas em vídeos.
+## Objetivos da Seção
 
-| Conteúdo                                                  |
-| --------------------------------------------------------- |
-| [Fundamentos de Programação Competitiva](./fundamentals/) |
-| [Trilha de Aprendizagem](./roadmap/)                      |
-| [Soluções de Problemas](./solutions/)                     |
+- **Registrar meu aprendizado:** Esta seção serve como um diário de estudo, onde resolvo problemas e explico conceitos com base no conteúdo do livro.
+- **Compartilhar conhecimento:** Apresentar soluções e explicações detalhadas de forma que outros possam aprender e discutir.
+- **Praticar Competitive Programming:** Melhorar minhas habilidades resolvendo problemas práticos.
+
+## Estrutura da Seção
+
+Os problemas e explicações estão organizados com base nos capítulos e temas apresentados no livro, mas o conteúdo aqui foi criado com minhas próprias palavras e soluções. Cada diretório ou arquivo representa um tema ou problema específico. Por exemplo:
+
+```
+Chapter_01/
+  - problem_1_solution.cpp
+  - problem_2_solution.py
+  - topic_summary.md
+Chapter_02/
+  - ...
+```
+
+## Regras e Restrições
+
+Para garantir que esta seção respeite os direitos autorais do livro e contribua de forma ética para a comunidade, sigo as diretrizes abaixo:
+
+### O que está incluído:
+
+1. **Soluções próprias:**
+   - As soluções publicadas aqui foram desenvolvidas por mim. Elas são originais e não reproduzem diretamente as soluções fornecidas no livro.
+2. **Explicações pessoais:**
+   - Os conceitos e temas do livro são explicados com base no meu entendimento, utilizando palavras e exemplos próprios.
+3. **Estrutura inspirada no livro:**
+   - A organização segue os capítulos e temas do livro, mas o conteúdo é independente e original.
+
+### O que está excluído:
+
+1. **Conteúdo original do livro:**
+   - Não compartilho PDFs, imagens ou qualquer outro material pertencente ao livro.
+2. **Cópias literais:**
+   - Não copio explicações ou soluções do livro de forma literal. Todo o conteúdo é fruto do meu conhecimento e entendimento obtido por diversas fontes.
+
+## Referências
+
+O conteúdo desta seção é inspirado pelo livro **Competitive Programming (4th Edition)** de Steven Halim e Felix Halim. Caso você se interesse pelo que foi apresentado aqui, recomendo fortemente que adquira o livro para entender os conceitos abordados de forma completa e detalhada. Além disso, utilizo outros livros, artigos e páginas para reforçar o conhecimento, se você quiser conhecer um pouco mais de todo conteúdo você pode acessar nosso [_roadmap de Estrutura de Dados_](../data-structures-n-algorithms/roadmap/README.md) e [_meus livros recomendados na Amazon_](https://www.amazon.com.br/hz/wishlist/ls/1H9V3WSX9UBSG?ref_=wl_share).
