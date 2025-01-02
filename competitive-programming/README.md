@@ -1,6 +1,10 @@
-# Competitive Programming Solutions
+# Programação Competitiva
 
-Esta secção contém minhas soluções para problemas e explicações de temas abordados no livro **Competitive Programming** de Steven Halim e Felix Halim. O objetivo é compartilhar meu aprendizado, organizar meu progresso e contribuir para a comunidade com abordagens e explicações desenvolvidas por mim durante meus estudos.
+Esta secção contém minhas soluções para problemas de programação para competição e desafios técnicos.
+
+Apesar de existir diversos exercícios resolvidos dos mais diferentes níveis de dificuldade e plataformas, a ideia principal desse repositório é seguir um caminho de apredizado, saindo do básico e indo até o mais avançado que conseguirmos, para isso devo usar como base temas abordados no livro **Competitive Programming** de Steven Halim e Felix Halim. Dessa forma o objetivo é compartilhar meu aprendizado, organizar meu progresso e contribuir para a comunidade com abordagens e explicações desenvolvidas por mim durante meus estudos.
+
+![Imagem contendo o Livro Competitive Programming 1 e 2 de Steven Halim e Felix Halim](/assets/CP0/cpbook-1-2.png)
 
 ## Objetivos da Seção
 
@@ -43,4 +47,12 @@ Para garantir que esta seção respeite os direitos autorais do livro e contribu
 
 ## Referências
 
-O conteúdo desta seção é inspirado pelo livro **Competitive Programming (4th Edition)** de Steven Halim e Felix Halim. Caso você se interesse pelo que foi apresentado aqui, recomendo fortemente que adquira o livro para entender os conceitos abordados de forma completa e detalhada. Além disso, utilizo outros livros, artigos e páginas para reforçar o conhecimento, se você quiser conhecer um pouco mais de todo conteúdo você pode acessar nosso [_roadmap de Estrutura de Dados_](../data-structures-n-algorithms/roadmap/README.md) e [_meus livros recomendados na Amazon_](https://www.amazon.com.br/hz/wishlist/ls/1H9V3WSX9UBSG?ref_=wl_share).
+O conteúdo desta seção é inspirado pelo livro **[Competitive Programming (4th Edition)](https://cpbook.net/)** de Steven Halim e Felix Halim. Caso você se interesse pelo que foi apresentado aqui, recomendo fortemente que adquira o livro.
+
+Além disso, utilizo outros livros, artigos e páginas para reforçar o conhecimento, se você quiser conhecer um pouco mais de todo conteúdo você pode acessar o [_roadmap de Estrutura de Dados e Alogritmos_](../data-structures-n-algorithms/roadmap/README.md) e [_meus livros recomendados na Amazon_](https://www.amazon.com.br/hz/wishlist/ls/1H9V3WSX9UBSG?ref_=wl_share).
+
+Neste repositório, como mencionei, você encontrará uma ampla coleção de soluções propostas pelos colaboradores presentes. [Clique aqui para explorar essa coleção de soluções](./solutions/README.md).
+
+## Venha Comigo Nessa Jornada!
+
+Se você está interessado em acompanhar minha jornada e estudar junto comigo, sinta-se à vontade para [clicar neste link, que o levará diretamente à seção do repositório onde iniciaremos nossa jornada juntos (Capítulo 1)](./cpbook/Chapter_01/README.md).

@@ -1,6 +1,6 @@
-# Chapter 1: Introduction
+# Capítulo 1: Introdução
 
-###### Capítulo 1: Introdução
+###### Chapter 1: Introduction
 
 Neste capítulo, exploramos os fundamentos essenciais para iniciar na programação competitiva. Ele é uma introdução aos conceitos básicos, como entrada/saída, resolução de problemas simples, e as plataformas de competição mais conhecidas.
 
