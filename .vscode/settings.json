@@ -22,6 +22,8 @@
     "xlocale": "cpp",
     "ratio": "cpp",
     "chrono": "cpp",
-    "locale": "cpp"
+    "locale": "cpp",
+    "cstdlib": "cpp",
+    "iostream": "cpp"
   }
 }
