@@ -24,10 +24,10 @@ O repositório está aberto para colaboração da comunidade, permitindo atualiz
 | PI0 | Processamento de Imagens                                           |
 | SE0 | Engenharia de Software                                             |
 
-## Time
-
-- [Rickelme Dias](https://github.com/RickelmeDias)
-
 ## Agradecimentos/Referências
 
 - [Thomas Norton](https://www.instagram.com/blueeyesnorton/)
+
+## Contribuidores
+
+- [Rickelme Dias](https://github.com/RickelmeDias)
