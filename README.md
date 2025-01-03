@@ -1,6 +1,6 @@
 # ROUTE 120
 
-![Route 120 by Blueeyesnorton](./assets/route-120.png)
+![Route 120 by Blueeyesnorton](./assets/route-120-blueeyesnorton.png)
 
 - [Sumário](#sumário)
 - [Comunidade](#comunidade)
@@ -27,3 +27,7 @@ O repositório está aberto para colaboração da comunidade, permitindo atualiz
 ## Time
 
 - [Rickelme Dias](https://github.com/RickelmeDias)
+
+## Agradecimentos/Referências
+
+- [Thomas Norton](https://www.instagram.com/blueeyesnorton/)
