@@ -41,7 +41,7 @@ Assim podemos calcular o retangulo possível que termina na linha atual e inclui
 
 ### Complexidade
 
-Como havia informaco, esse algoritmos pode ser considerado um algoritmos quadratico, porem como a matriz nao tem dimensoes iguais em sua linha e coluna, entao consideramos ele em sua complexidade de tempo como `O(m*n)`, e por conta de usar _dynamic programming_ a gente fez tambem um aumento sem sua complexidade de espaco para pelo menos `O(n)`.
+Como havia informacdo, esse algoritmos pode ser considerado um algoritmos quadrático, porém como a matriz não tem dimensões iguais em sua linha e coluna, então consideramos ele em sua complexidade de tempo como `O(m*n)`, e por conta de usar _dynamic programming_ a gente fez também um aumento sem sua complexidade de espaço para `O(n)`.
 
 ### Construção
 
